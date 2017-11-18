@@ -1,3 +1,4 @@
+% This is an adapted version of the PROLOG written in the attached README.md Article I wrote.
 % Defined Train Stations
 	%Stations
 		%Metropolitan

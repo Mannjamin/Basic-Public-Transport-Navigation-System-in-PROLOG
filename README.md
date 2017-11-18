@@ -24,7 +24,7 @@ PROLOG requires a compiler in order to build scripts. SWI PROLOG is an extremly 
 ### Making a Data Dictionary
 
 In order to make a navigable map, we need to know the two things. The locations and how to get there. For this example. I am going to pick 3 buses and about 5 stops per bus. 
-
+v
 Below is an example of a Data Dictionary:
 
     Bus A: (Village Bus)

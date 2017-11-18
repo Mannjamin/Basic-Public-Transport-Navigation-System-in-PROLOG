@@ -4,6 +4,8 @@
 
 This is an online articlc I made some time ago for another website, I have written up a new PROLOG script and have decided to show this article here to demonstrate both, My understanding of PROLOG and how to use PROLOG in general. 
 
+The attached PROLOG file is Train focussed compared to the article below. The attached PROLOG Script has more features which have all been commented. The original purpose of this article was to demonstrate the use of  PROLOG for simple application.
+
 ### Introduction
 
 If you’re like me, you always look for the fastest and most efficient route to get from A to B. With the World Wide Web, there are many mediums available to assist people with navigation. Google Maps is a very popular form of navigational application. With Google being, Google… Maps is a highly advanced application which uses a plethora of techniques in order to provide the most accurate travel information, this includes traffic data, weather data and more. Can you imagine the million or more lines of code?

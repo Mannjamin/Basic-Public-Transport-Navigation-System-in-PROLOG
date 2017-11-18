@@ -73,8 +73,6 @@ So what can we do with this?
 well, as part of our navigation system, we can declare many things. As part of this demonstration, my navigational system will cover the following functions:
 1. Displaying adjacent bus stops
 2. Displaying the route between bus stops
-3. Displaying how long it take to get to each bus stop
-4. We can also display how many bus stops a Bus has to do through.
 
 ### Displaying Adjacent Bus Stops:
 
